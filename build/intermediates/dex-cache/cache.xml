@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/gson-2.6.1_4f286baabbc27f58c7715e8f1262e33ecc0d8da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_c5407d0b11025eb9b706f3ffaf9d86ae577c424d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7641b4d19706419eeaf6e03bd69f28d650cc8e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_045d10fcff13390bed3d4257a9bc2afd3afb766f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_2c57ef9e4132a3208994b5252267c8a01d9f89fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_bbe8ec83b4e870c6c006aac69c4ddaa46bc04acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_322dcf9f59dccf8187018ca1b961c15c7583d2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_c0d54fadecd92af1598b07b83e21c51be2333e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_9c623e2b5e366cc471473ecaa7f47588b076c5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/rxjava-2.0.1_a1587068c0bda5f229268c91c8667b0e281a470e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_54268690adec0479880b70d3f75e63c40db6afe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_b706914a963aaf20d5ed08008166c6b67032b335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/RetrofitDemo/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_b1a91e881686a4981f62a48ef5a4d00c91b9b39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/bongmi/RetrofitDemo/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a8786e2edaf0834cb898b6fa0885ad7dab15b02f.jar" />
+    </item>
+
+</items>
